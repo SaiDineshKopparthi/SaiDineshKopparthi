@@ -20,12 +20,23 @@ I love keeping myself busy with developing new types of websites every chance I 
   <img src="https://komarev.com/ghpvc/?username=SaiDineshKopparthi&color=orange&style=plastic&label=Profile+Views" alt="Profile Views" width="150" height="35">
 </p>
 
+<h3 align="center">Git Stats</h3>
+
 <div align="center">
-<table>
+ 
+  <img src="https://streak-stats.demolab.com?user=SaiDineshKopparthi&theme=terafox" alt="GitHub Streak" />
+  <br>
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDineshKopparthi&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
+</div>
+
+<h2 align="center">📫 Let's Connect!</h2>
+
+<table align="center">
   <tr>
-    <td align="center">
-      <a href="https://github.com/SaiDineshKopparthi" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSaiDineshKopparthi&size=square" alt="Dinesh Kopparthi">
+    <td colspan="3" align="center">
+      <a href="mailto:kopparthi.dinesh42224@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Sai+Dinesh+Kopparthi&size=square" alt="My Email" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -33,28 +44,12 @@ I love keeping myself busy with developing new types of websites every chance I 
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdinesh-kopparthi-10862521b%2F&subtitle=Dinesh+Kopparthi&size=square" alt="Dinesh Kopparthi">
       </a>
     </td>
-    
-  </tr>
-</table>
-</div>
-
-<h3 align="center">Git Stats</h3>
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=SaiDineshKopparthi&theme=terafox" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDineshKopparthi&custom_title=Dinesh&theme=xcode" alt="GitHub Activity Graph" />
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDineshKopparthi&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
+    <td align="center">
+      <a href="https://github.com/SaiDineshKopparthi" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSaiDineshKopparthi&size=square" alt="Dinesh Kopparthi">
+      </a>
     </td>
   </tr>
 </table>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=&section=footer&fontColor=87868f" width="100%">
