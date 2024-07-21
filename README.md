@@ -3,6 +3,10 @@
 <img src="./assets/welcome.gif">
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaiDineshKopparthi&color=orange&style=plastic&label=Profile+Views" alt="Profile Views" width="150" height="35">
+</p>
+
 <div align="center">
 <table>
   <tr>
