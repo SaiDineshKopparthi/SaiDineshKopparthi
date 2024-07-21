@@ -1,4 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=&section=header&fontColor=87868f" width="100%">
+<div align="center">
+<img src="./assets/welcome.gif">
+</div>
 
 <div align="center">
 <table>
