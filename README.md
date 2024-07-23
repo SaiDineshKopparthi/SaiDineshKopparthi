@@ -23,9 +23,6 @@ I love keeping myself busy with developing new types of websites every chance I 
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=SaiDineshKopparthi&theme=terafox" alt="GitHub Streak" />
-  <br>
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDineshKopparthi&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
 </div>
