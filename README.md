@@ -20,6 +20,26 @@ I love keeping myself busy with developing new types of websites every chance I 
   <img src="https://komarev.com/ghpvc/?username=SaiDineshKopparthi&color=orange&style=plastic&label=Profile+Views" alt="Profile Views" width="150" height="35">
 </p>
 
+<h3 align="center">Tools and Tehnologies</h3>
+<table align="center">
+  <tr>
+    <td colspan="3" align="center">
+      <img src="./assets/html-logo_lfmuid.svg" width="36px", height="40px">
+    </td>
+    <td colspan="3" align="center">
+      <img src="./assets/js-logo_gvosxg.svg" width="36px", height="40px">
+    </td>
+    <td colspan="3" align="center">
+      <img src="./assets/typescript-logo_oldkpo.svg" width="36px", height="40px">
+    </td>
+    <td colspan="3" align="center">
+      <img src="./assets/node-logo_runwwy.svg" width="36px", height="40px">
+    </td>
+    <td colspan="3" align="center">
+      <img src="./assets/react-logo_q2iuni.svg" width="36px", height="40px">
+    </td>
+  </tr>
+</table>
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
