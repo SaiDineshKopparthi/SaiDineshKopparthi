@@ -24,19 +24,30 @@ I love keeping myself busy with developing new types of websites every chance I 
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <img src="./assets/html-logo_lfmuid.svg" width="36px", height="40px">
+      <img src="./assets/logos/javascript.svg" width="36px", height="40px">
     </td>
     <td colspan="3" align="center">
-      <img src="./assets/js-logo_gvosxg.svg" width="36px", height="40px">
+      <img src="./assets/logos/typescript.svg" width="36px", height="40px">
     </td>
     <td colspan="3" align="center">
-      <img src="./assets/typescript-logo_oldkpo.svg" width="36px", height="40px">
+      <img src="./assets/logos/java.svg" width="36px", height="40px">
     </td>
     <td colspan="3" align="center">
-      <img src="./assets/node-logo_runwwy.svg" width="36px", height="40px">
+      <img src="./assets/logos/python.svg" width="36px", height="40px">
     </td>
     <td colspan="3" align="center">
-      <img src="./assets/react-logo_q2iuni.svg" width="36px", height="40px">
+      <img src="./assets/logos/swift.svg" width="36px", height="40px">
+    </td>
+    <td colspan="3" align="center">
+      <img src="./assets/logos/html.svg" width="36px", height="40px">
+    </td>
+    <td colspan="3" align="center">
+      <img src="./assets/logos/react.svg" width="36px", height="40px">
+    </td>
+  </tr>
+  <tr>
+  <td colspan="3" align="center">
+      <img src="./assets/logos/node.svg" width="36px", height="40px">
     </td>
   </tr>
 </table>
