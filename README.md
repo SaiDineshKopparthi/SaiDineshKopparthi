@@ -45,6 +45,8 @@ I love keeping myself busy with developing new types of websites every chance I 
       <img src="./assets/logos/react.svg" width="36px", height="40px">
     </td>
   </tr>
+</table>
+  <table align="center">
   <tr>
   <td colspan="3" align="center">
       <img src="./assets/logos/node.svg" width="36px", height="40px">
