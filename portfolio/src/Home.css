@@ -2,7 +2,22 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   height: 100vh;
   text-align: center;
+}
+
+.home.centered {
+  justify-content: center;
+}
+
+.about-me img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 30px;
+  border: 8px solid black;
+  border-radius: 36px;
+}
+
+.about-me {
+  margin: 50px 100px;
 }

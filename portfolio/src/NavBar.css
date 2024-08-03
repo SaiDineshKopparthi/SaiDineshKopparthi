@@ -1,0 +1,31 @@
+.navbar {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    max-width: 900px;
+    margin: 0 auto;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+
+.navbar .links {
+    margin-left: auto;
+}
+
+.navbar a {
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+    justify-content: left;
+    color: black;
+    font-size: 12px;
+}
+
+.navbar a.active {
+    color: black;
+    text-decoration: underline;
+}
+
+.navbar a.inactive {
+    color: lightgrey;
+}

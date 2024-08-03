@@ -30,7 +30,7 @@ const ProgressBar = ({ onComplete }) => {
 
   return (
     <div className="progress-container">
-      <progress className="nes-progress is-success" value={progress} max="100"></progress>
+      <progress className="nes-progress" value={progress} max="100"></progress>
       <div className="percentage">{Math.round(progress)}%</div>
     </div>
   );
