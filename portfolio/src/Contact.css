@@ -1,0 +1,39 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.contact-me {
+    width: 90%;
+    max-width: 600px;
+    margin-top: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.nes-field {
+    padding: 20px 40px;
+
+}
+
+input::placeholder,
+textarea::placeholder {
+    font-size: 12px;
+    color: #888;
+}
+
+.icon-list {
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nes-icon {
+    font-size: 1.5em;
+}

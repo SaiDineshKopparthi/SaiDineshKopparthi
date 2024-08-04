@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import flyingDucky from './assets/flying-ducky.gif'
 import './NavBar.css'
 
 const TitleBar = () => {
@@ -11,6 +12,7 @@ const TitleBar = () => {
 
     return (
         <nav className="navbar">
+            <img src={flyingDucky} alt="flying-ducky"/>
             <h3 className="nes-text">Sai Dinesh Kopparthi</h3>
             <div className="links">
                 <Link className={`nes-text ${getLinkClass('/')}`} to="/">Home</Link>
