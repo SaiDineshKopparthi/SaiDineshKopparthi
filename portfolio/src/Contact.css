@@ -4,16 +4,19 @@
     align-items: center;
     text-align: center;
     padding: 20px;
-    height: 100vh;
     box-sizing: border-box;
+    gap: 30px;
+    position: relative;
 }
+
 
 .contact-me {
     width: 90%;
     max-width: 600px;
-    margin-top: 20px;
+    margin-top: 50px;
     padding: 10px;
     box-sizing: border-box;
+    position: relative;
 }
 
 .nes-field {
@@ -28,7 +31,7 @@ textarea::placeholder {
 }
 
 .icon-list {
-    margin: 30px 0;
+    margin-top: auto;
     display: flex;
     justify-content: center;
     gap: 10px;
@@ -36,4 +39,20 @@ textarea::placeholder {
 
 .nes-icon {
     font-size: 1.5em;
+}
+
+.pengu {
+    position: absolute;
+    top: -2px;
+    right: 460px;
+    width: 100px;
+    height: auto;
+}
+
+@media (max-width: 900px) {
+    .pengu {
+        width: 80px; 
+        top: 13px;
+        right: 140px;
+    }
 }
