@@ -4,11 +4,11 @@
     align-items: center;
     margin: 0 auto;
     border-bottom: 1px solid #f2f2f2;
-    position: fixed; /* Fixed position */
-    top: 0; /* Align to the top of the page */
-    width: 100%; /* Full width */
-    background-color: white; /* Ensure the background is white */
-    z-index: 1000; /* Ensure the navbar is above other content */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 1000;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
 }
 

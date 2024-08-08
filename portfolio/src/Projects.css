@@ -1,0 +1,14 @@
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin: 100px 200px;
+}
+
+.buttons .nes-btn {
+    margin: 0px 15px;
+    flex: 1 1 auto;
+    margin: 5px;
+    max-width: calc(25% - 30px);
+}

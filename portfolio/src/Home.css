@@ -9,6 +9,25 @@
   width: 100px;
 }
 
+.title {
+  font-size: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 40px 0px;
+}
+
+.is-centered h2 {
+  margin: 30px;
+}
+
+.title p {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+}
+
 .home.centered {
   justify-content: center;
   height: 500px;
@@ -32,6 +51,28 @@
 .about-me {
   margin: 50px 0;
   width: 80%;
+}
+
+.about-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.about-text {
+  flex: 0 0 75%;
+  margin-right: 20px;
+}
+
+.about-image {
+  flex: 0 0 20%;
+  text-align: center;
+}
+
+.about-image img {
+  width: 250px;
+  height: auto;
+  border-radius: 50%;
 }
 
 .work-exp {
@@ -80,28 +121,82 @@
 
 .double-column {
   display: flex;
-  justify-content: space-between;
   width: 80%;
+  /* or any width you want */
   margin: 20px 0;
 }
 
 .double-column>.main-section {
-  flex: 0 0 75%;
+  flex: 0 0 65%;
   margin-right: 10px;
 }
 
 .double-column>.side-section {
+  flex: 0 0 35%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 10px;
+}
+
+.side-section {
+  height: auto;
+}
+
+.education-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.education-details {
+  flex: 1;
   text-align: left;
-  flex: 0 0 25%;
+}
+
+.education-logo {
+  flex: 1;
+  max-width: 100px;
+  height: auto;
 }
 
 .awards {
+  margin-top: 50px;
   margin: 20px 0;
   width: 80%;
 }
 
+.award-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.award-list p {
+  flex: 1;
+  margin: 0;
+}
+
+.award-list img {
+  flex: 1;
+  max-width: 100%;
+  height: auto;
+}
+
+.vr {
+  width: 1px;
+  background-color: black;
+  height: 100%;
+  margin: 0 20px;
+}
+
 .nes-container {
   margin: 10px 0;
+}
+
+.nes-badge {
+  margin: 5px 10px;
 }
 
 ul li::marker {
