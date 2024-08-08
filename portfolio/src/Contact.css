@@ -1,0 +1,57 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    gap: 30px;
+    position: relative;
+}
+
+.contact-me {
+    width: 90%;
+    max-width: 600px;
+    margin-top: 50px;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.nes-field {
+    padding: 20px 40px;
+
+}
+
+input::placeholder,
+textarea::placeholder {
+    font-size: 12px;
+    color: #888;
+}
+
+.icon-list {
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nes-icon {
+    font-size: 1.5em;
+}
+
+.pengu {
+    position: absolute;
+    top: -2px;
+    right: 460px;
+    width: 100px;
+    height: auto;
+}
+
+@media (max-width: 900px) {
+    .pengu {
+        width: 80px; 
+        top: 13px;
+        right: 140px;
+    }
+}
