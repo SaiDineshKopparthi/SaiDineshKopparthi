@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SaiDineshKopparthi/static/css/main.bcbefc37.css",
+    "main.js": "/SaiDineshKopparthi/static/js/main.6d179ffd.js",
+    "static/media/Star_of_the_Month_Award.jpg": "/SaiDineshKopparthi/static/media/Star_of_the_Month_Award.e5165b7dd4741b760ed7.jpg",
+    "static/media/profile-pic.gif": "/SaiDineshKopparthi/static/media/profile-pic.6f1a86983174860146a9.gif",
+    "static/media/NWMSU.png": "/SaiDineshKopparthi/static/media/NWMSU.d4b5f3e83567c32ab6a0.png",
+    "static/media/pengu.gif": "/SaiDineshKopparthi/static/media/pengu.ca7e4b3299e850379e26.gif",
+    "static/media/SASTRA.png": "/SaiDineshKopparthi/static/media/SASTRA.cf6be8fe0d61cd35aebe.png",
+    "static/media/gym-guy.gif": "/SaiDineshKopparthi/static/media/gym-guy.e21fb3e85523df66b984.gif",
+    "static/media/pokemons.gif": "/SaiDineshKopparthi/static/media/pokemons.f4f15a4ffb3f159161a2.gif",
+    "static/media/click-sound.mp3": "/SaiDineshKopparthi/static/media/click-sound.c7f8c76b920f680822f8.mp3",
+    "static/media/zombie.gif": "/SaiDineshKopparthi/static/media/zombie.d6857eb84d8f18d93737.gif",
+    "static/media/link-click-sound.mp3": "/SaiDineshKopparthi/static/media/link-click-sound.6f622caab5802a64a6b7.mp3",
+    "static/media/fire-guy.gif": "/SaiDineshKopparthi/static/media/fire-guy.9be241f499df583ed055.gif",
+    "index.html": "/SaiDineshKopparthi/index.html",
+    "main.bcbefc37.css.map": "/SaiDineshKopparthi/static/css/main.bcbefc37.css.map",
+    "main.6d179ffd.js.map": "/SaiDineshKopparthi/static/js/main.6d179ffd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcbefc37.css",
+    "static/js/main.6d179ffd.js"
+  ]
+}
