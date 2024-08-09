@@ -16,7 +16,7 @@ const App = () => {
   useButtonClickSound();
 
   return (
-    <Router>
+    <Router basename="/SaiDineshKopparthi">
       <div className="App">
         {!loading && <NavBar />}
         {loading ? (
