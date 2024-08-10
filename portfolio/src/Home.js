@@ -110,7 +110,7 @@ const Home = () => {
                             <hr />
                             <div className="work-item">
                                 <div className="work-header">
-                                    <p className="client">*********, Hyderabad India</p>
+                                    <p className="client">Netenrich Technologies Pvt. Ltd, India</p>
                                     <p className="date">August 2020 to September 2021</p>
                                 </div>
                                 <p className="position">GIS Developer</p>
