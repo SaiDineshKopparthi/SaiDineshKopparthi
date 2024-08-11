@@ -2,11 +2,13 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SaiDineshKopparthi.github.io/SaiDineshKopparthi",
+  "homepage": "https://saidineshkopparthi.github.io/SaiDineshKopparthi/",
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.3",
     "nes.css": "^2.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -41,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "dotenv": "^16.4.5",
     "gh-pages": "^6.1.1"
   }
 }
