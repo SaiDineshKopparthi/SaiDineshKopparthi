@@ -1,0 +1,15 @@
+.nes-dialog {
+    max-width: 400px;
+    width: 100%;
+    padding: 1.5rem;
+    margin-top: 500px;
+    border-radius: 20px;
+}
+
+.nes-dialog p {
+    text-align: center;
+}
+
+.dialog-menu .nes-btn {
+    margin: 20px;
+}

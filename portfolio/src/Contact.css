@@ -20,7 +20,6 @@
 
 .nes-field {
     padding: 20px 40px;
-
 }
 
 input::placeholder,
@@ -48,9 +47,69 @@ textarea::placeholder {
     height: auto;
 }
 
+.nes-input.is-error,
+.nes-textarea.is-error {
+    border-color: red;
+}
+
+.nes-text.is-error {
+    color: red;
+    margin-top: 5px;
+    font-size: 0.6em;
+    text-align: left;
+    margin-left: 20px;
+}
+
+
+
+.nes-dialog p {
+    text-align: center;
+}
+
+
+
+.nes-dialog {
+    
+    max-width: 400px;
+    width: 100%;
+    padding: 1.5rem;
+    margin-top: 500px;
+    border-radius: 20px;
+
+    position: fixed;
+    top: -20%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    z-index: 1001;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    display: none;
+
+
+}
+
+.nes-dialog[open] {
+    display: block; /* Display when open attribute is present */
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    display: none; /* Hide by default */
+}
+
+.overlay.visible {
+    display: block; /* Display when visible class is added */
+}
+
 @media (max-width: 900px) {
     .pengu {
-        width: 80px; 
+        width: 80px;
         top: 13px;
         right: 140px;
     }

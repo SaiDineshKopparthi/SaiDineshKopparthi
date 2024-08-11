@@ -1,19 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=&section=header&fontColor=87868f" width="100%">
 
-<div align="center">
-<img src="./assets/welcome.gif">
-</div>
+https://saidineshkopparthi.github.io/SaiDineshKopparthi
 
 <div align="center">
 <img src="./assets/name.png">
 </div>
 
 <h2 align="center">🤖 About Me</h2>
-
-I am a recent Master's graduate in Applied Computer Science from Northwest Missouri State University with an unending enthusiasm for learning new technologies. During my Master's program, I worked as a Graduate Assistant for the iOS Mobile Computing course, which provided me the opportunity to develop several iOS applications using Swift. Additionally, I have professional experience as an Assistant System Engineer at Tata Consultancy Services in Hyderabad, India.
-
-I love keeping myself busy with developing new types of websites every chance I get. With a particular fondness for JavaScript, I use React, Express.js, and Node.js for web development. In my free time, I enjoy lifting weights 🏋🏽 and watching Formula One 🏎️.
-
+<p align="center">
+I am a recent Master's graduate in Applied Computer Science from Northwest Missouri State University, driven by an unending enthusiasm for learning and a passion for advancing in the field of computer science. With hands-on experience in developing iOS applications and a solid background in web development using technologies like React, Node.js, and Express, I thrive on the challenge of creating innovative solutions. My roles have ranged from enhancing user interfaces and integrating third-party applications to supporting educational initiatives and contributing to Agile transformations.
+</p>
+<p align="center">          
+My career is marked by a commitment to staying at the forefront of technology and achieving excellence in every project I undertake. I am dedicated to exploring new technologies and leveraging my skills to drive impactful results. My diverse experience, from developing dynamic web components to optimizing geospatial data systems, reflects my goal of pushing the boundaries of what's possible in computer science.
+</p>
 </br>
 </br>
 <p align="center">

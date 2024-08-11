@@ -67,12 +67,10 @@ const Home = () => {
                                 </div>
                                 <p className="position">Software Developer</p>
                                 <p className="responsibilities-title">Responsibilities:</p>
-                                <ul className="responsibilities">
-                                    <li>Revamped existing React UI components with modern web designs, enhancing visual appeal and functionality. Performed unit testing using Jest and React Testing Library, identifying bugs earlier.</li>
-                                    <li>Integrated third-party payment applications into the university's application, streamlining payment processes and improving user experience.</li>
-                                    <li>Created and maintained APIs using Node.js and Express, efficiently handling SQL queries to retrieve and display data from MySQL databases on the frontend.</li>
-                                    <li>Utilized GitLab and Git workflows for efficient version control, ensuring smooth collaboration and code management throughout the development process.</li>
-                                </ul>
+                                <p className="responsibilities">
+                                    I enhanced React UI components, integrated third-party payment systems, and developed APIs using Node.js and Express for efficient data handling.
+                                    I also leveraged GitLab for seamless collaboration and version control.
+                                </p>
                             </div>
                             <hr />
                             <div className="work-item">
@@ -82,12 +80,10 @@ const Home = () => {
                                 </div>
                                 <p className="position">Graduate Assistant - Mobile Compting iOS</p>
                                 <p className="responsibilities-title">Responsibilities:</p>
-                                <ul className="responsibilities">
-                                    <li>Assisted in teaching Mobile Computing IOS graduate course, supporting 80+ students through tutorials, lab sessions, and workshops. </li>
-                                    <li>Offered personalized assistance to students, addressing queries, clarifying concepts, and guiding them through assignments and projects.</li>
-                                    <li>Contributed to the creation of course materials, including assignments, quizzes, and additional resources.</li>
-                                    <li>Collaborated with faculty to enhance course delivery methods and optimize student learning experiences.</li>
-                                </ul>
+                                <p className="responsibilities">
+                                    I supported over 80 students in a Mobile Computing iOS course through tutorials, labs, and workshops, offering personalized assistance and contributing to course material development.
+                                    I also collaborated with faculty to enhance course delivery and optimize learning experiences.
+                                </p>
                             </div>
                             <hr />
                             <div className="work-item">
@@ -97,15 +93,11 @@ const Home = () => {
                                 </div>
                                 <p className="position">Assistant Systems Engineer</p>
                                 <p className="responsibilities-title">Responsibilities:</p>
-                                <ul className="responsibilities">
-                                    <li>Actively contributed to Sanlam Corporate's transition from Waterfall to Agile methodologies, assisting in the division of core applications into manageable clusters and participating in Agile ceremonies such as sprint planning and retrospectives.</li>
-                                    <li>Collaborated with senior developers to implement secure authentication mechanisms using JWT tokens, enhancing the application's security posture. </li>
-                                    <li>Utilized React and TypeScript to create dynamic UI components, employing JSX for efficient rendering and React Router for seamless navigation.</li>
-                                    <li>Implemented HTML and CSS to ensure responsive and visually appealing interfaces. Configured Webpack and Babel for optimized bundling and transpilation.</li>
-                                    <li>Built robust back-end APIs using Express and Node.js, ensuring seamless integration with front-end components for cohesive application functionality. </li>
-                                    <li>Performed rigorous unit testing with Jest on the front end to ensure code quality and reliability. Conducted rigorous unit testing with Mocha and Chai to ensure backend code quality and reliability.</li>
-                                    <li>Spearheaded the integration of multiple task manager applications through automated emails and APIs, leveraging client-side technologies and Node.js to automate workflows. Earned client appreciation for significantly improving operational efficiency.</li>
-                                </ul>
+                                <p className="responsibilities">
+                                    I played a key role in Sanlam Corporate's transition to Agile, dividing core applications into clusters and participating in Agile ceremonies.
+                                    I collaborated on secure authentication with JWT tokens, developed dynamic UI components with React and TypeScript, and ensured responsive designs using HTML and CSS.
+                                    I also built robust back-end APIs with Node.js and Express, conducted comprehensive testing with Jest, Mocha, and Chai, and integrated task manager applications to automate workflows, earning client appreciation for boosting efficiency.
+                                </p>
                             </div>
                             <hr />
                             <div className="work-item">
@@ -115,12 +107,10 @@ const Home = () => {
                                 </div>
                                 <p className="position">GIS Developer</p>
                                 <p className="responsibilities-title">Responsibilities:</p>
-                                <ul className="responsibilities">
-                                    <li>Implemented and customized interactive maps using React.js and Leaflet, enabling dynamic data visualization and user interaction with geospatial data.</li>
-                                    <li>Utilized MongoDB for storing and querying GeoJSON data, leveraging geospatial indexing to enhance data retrieval performance for location-based applications.</li>
-                                    <li>Assisted in developing RESTful APIs with Express.js and Node.js for handling geospatial data operations, including CRUD functions and spatial queries.</li>
-                                    <li>Conducted spatial data analysis using QGIS and ArcGIS, and performed geo-processing tasks with turf.js to support project needs and client requirements.</li>
-                                </ul>
+                                <p className="responsibilities">
+                                    I developed interactive maps using React.js and Leaflet for dynamic geospatial data visualization, utilizing MongoDB for efficient GeoJSON storage and querying.
+                                    I also assisted in creating RESTful APIs with Express.js and Node.js for geospatial data operations and conducted spatial data analysis using QGIS, ArcGIS, and turf.js to meet project and client needs.
+                                </p>
                             </div>
                         </div>
                         <div className="double-column">
