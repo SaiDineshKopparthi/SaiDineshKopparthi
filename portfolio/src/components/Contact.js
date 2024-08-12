@@ -1,5 +1,5 @@
-import './Contact.css'
-import pengu from './assets/pengu.gif'
+import '../styles/Contact.css'
+import pengu from '../assets/pengu.gif'
 import React, { useState } from 'react'
 import emailjs from '@emailjs/browser'
 

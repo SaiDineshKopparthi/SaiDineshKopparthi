@@ -1,5 +1,5 @@
 import React from 'react';
-import './ResumeDialog.css';
+import '../styles/ResumeDialog.css';
 
 const ResumeDialog = ({ isOpen, onClose }) => {
     return (
