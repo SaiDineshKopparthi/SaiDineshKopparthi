@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import fireGuy from './assets/fire-guy.gif'
+import fireGuy from '../assets/fire-guy.gif'
 import ResumeDialog from './ResumeDialog'
-import './NavBar.css'
+import '../styles/NavBar.css'
 
 const NavBar = () => {
     const location = useLocation()

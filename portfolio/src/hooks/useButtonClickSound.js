@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react'
-import clickSound from './sounds/click-sound.mp3'
+import clickSound from '../sounds/click-sound.mp3'
 
 
 const useButtonClickSound = () => {

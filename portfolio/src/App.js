@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import ProgressBar from './ProgressBar';
-import Home from './Home';
-import Contact from './Contact'
-import Projects from './Projects'
-import NavBar from './NavBar';
-import ScrollToTop from './ScrollToTop';
-import useButtonClickSound from './useButtonClickSound';
+import ProgressBar from './components/ProgressBar';
+import Home from './components/Home';
+import Contact from './components/Contact'
+import Projects from './components/Projects'
+import NavBar from './components/NavBar';
+import ScrollToTop from './components/ScrollToTop';
+import useButtonClickSound from './hooks/useButtonClickSound';
 import 'nes.css/css/nes.min.css';
 
 

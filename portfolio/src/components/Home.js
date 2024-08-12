@@ -1,12 +1,12 @@
 import React, { useState } from 'react'
-import './Home.css'
-import dancingPokemons from './assets/pokemons.gif'
-import gymGuy from './assets/gym-guy.gif'
-import zombie from './assets/zombie.gif'
-import award from './assets/Star_of_the_Month_Award.jpg'
-import northwestLogo from './assets/NWMSU.png'
-import sastraLogo from './assets/SASTRA.png'
-import profilePic from './assets/profile-pic.gif'
+import '../styles/Home.css'
+import dancingPokemons from '../assets/pokemons.gif'
+import gymGuy from '../assets/gym-guy.gif'
+import zombie from '../assets/zombie.gif'
+import award from '../assets/Star_of_the_Month_Award.jpg'
+import northwestLogo from '../assets/NWMSU.png'
+import sastraLogo from '../assets/SASTRA.png'
+import profilePic from '../assets/profile-pic.gif'
 
 
 const Home = () => {

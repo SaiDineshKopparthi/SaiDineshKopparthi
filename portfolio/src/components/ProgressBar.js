@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import 'nes.css/css/nes.min.css';
-import './ProgressBar.css';
+import '../styles/ProgressBar.css';
 
 const ProgressBar = ({ onComplete }) => {
 
