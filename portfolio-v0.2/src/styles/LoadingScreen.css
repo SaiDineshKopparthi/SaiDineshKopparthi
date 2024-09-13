@@ -1,0 +1,17 @@
+.progress-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.nes-progress {
+    width: 33%;
+    max-width: 400px;
+}
+
+.percentage {
+    margin-top: 30px;
+    text-align: center;
+}
