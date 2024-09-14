@@ -15,9 +15,9 @@ const Header = () => {
             <a href="#home" className="logo">Dinesh<span>.</span></a>
 
             <nav className="navbar-right">
-                <a href="#technologies">Technologies</a>
                 <a href="#portfolio">Portfolio</a>
                 <a href="#contact">Contact</a>
+                <a href="#mode">Dark Mode</a>
             </nav>
         </header>
     );

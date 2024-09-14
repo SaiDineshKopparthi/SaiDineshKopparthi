@@ -1,0 +1,20 @@
+.portfolio {
+    padding: 2rem;
+    background-color: #D6DBDF;
+}
+
+.portfolio-heading {
+    width: 100%;
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.portfolio-heading h2 {
+    font-size: 2rem;
+    color: #333;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    position: relative;
+    display: inline-block;
+}

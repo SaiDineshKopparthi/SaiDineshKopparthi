@@ -6,6 +6,7 @@ import Home from './components/Home';
 import Header from './components/Header';
 import About from './components/About';
 import WorkExperience from './components/WorkExperience';
+import Portfolio from './components/Portfolio';
 
 import 'nes.css/css/nes.min.css';
 
@@ -25,6 +26,7 @@ function App() {
             <Home />
             <About />
             <WorkExperience />
+            <Portfolio/>
           </>
         ) : (
           <Welcome whenClickedStarted={() => setHasClickedStarted(true)} />

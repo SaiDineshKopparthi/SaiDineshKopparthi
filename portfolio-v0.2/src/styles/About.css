@@ -1,6 +1,6 @@
 .about {
     padding: 2rem;
-    background-color: #FBFCF8;
+    background-color: #D6DBDF;
 }
 
 .about-heading {
@@ -42,24 +42,26 @@
 
 .about-content-wrapper {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     gap: 2rem;
 }
 
 .about-image {
-    flex: 1;
+    flex: 1 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
 }
 
 .about-image img {
-    height: 400px;
     width: 400px;
-    margin-left: 2.5rem;
-    margin-top: 4rem;
+    margin-bottom: -22px;
 }
 
 .about-content {
+    background-color: #D4E6F1;
     flex: 2;
     color: #333;
     margin-top: 2.5rem;
@@ -68,13 +70,26 @@
 .about-content .title {
     font-size: 1.25rem !important;
     font-weight: bold !important;
-    background-color: #FBFCF8 !important;
+    background-color: #D4E6F1 !important;
+    position: relative;
+}
+
+.about-content .title::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    color: white;
+    background-color: black;
+    transition: width 0.4s ease;
+}
+
+.about-content .title:hover::after {
+    width: 100%;
 }
 
 .about-content p {
     font-size: 0.8rem;
-}
-
-.about-content button {
-    margin-top: 1.2rem;
 }

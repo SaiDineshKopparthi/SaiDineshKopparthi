@@ -3,15 +3,15 @@
     top: 0;
     left: 0;
     width: 100%;
-    padding: 1rem 5%;
-    margin-top: 2rem;
+    padding: 2rem 5%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    /* background-color: #BFBFBF; */
     background-color: transparent;
     color: white;
-    /* display: none; */
+    display: none;
 }
 
 .logo {
@@ -60,6 +60,7 @@
     text-decoration: none;
     color: white;
     outline: none; 
+    word-spacing: -5px;
 }
 
 .navbar-left a:hover,

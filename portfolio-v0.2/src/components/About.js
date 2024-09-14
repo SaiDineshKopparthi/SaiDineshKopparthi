@@ -12,6 +12,7 @@ const About = () => {
             <div className="about-content-wrapper">
                 <div className="about-image">
                     <img src={profilePic} alt="profile-pic" />
+                    <button type="button" class="nes-btn is-success">Download Resume</button>
                 </div>
 
                 <div className="about-content nes-container with-title">
@@ -31,8 +32,6 @@ const About = () => {
                         My diverse experience, from developing dynamic web components to optimizing geospatial data systems, reflects my goal of
                         pushing the boundaries of what's possible in computer science.
                     </p>
-
-                    <button type="button" class="nes-btn is-primary">Download Resume</button>
                 </div>
             </div>
         </section>
