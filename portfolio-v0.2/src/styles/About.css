@@ -1,5 +1,6 @@
 .about {
     padding: 2rem;
+    background-color: #FBFCF8;
 }
 
 .about-heading {
@@ -7,13 +8,37 @@
     text-align: center;
     margin-top: 1.5rem;
     margin-bottom: 2rem;
+    position: relative;
 }
 
 .about-heading h2 {
     font-size: 2rem;
     color: #333;
     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+    position: relative;
+    display: inline-block;
 }
+
+/* .about-heading h2::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 0;
+    height: 3px;
+    background-color: #333;
+    transition: width 0.5s ease-in-out;
+    animation: underline-animation 1s forwards ease-in-out;
+}
+
+@keyframes underline-animation {
+    0% {
+        width: 0%;
+    }
+    100% {
+        width: 100%;
+    }
+} */
 
 .about-content-wrapper {
     display: flex;
@@ -38,6 +63,12 @@
     flex: 2;
     color: #333;
     margin-top: 2.5rem;
+}
+
+.about-content .title {
+    font-size: 1.25rem !important;
+    font-weight: bold !important;
+    background-color: #FBFCF8 !important;
 }
 
 .about-content p {

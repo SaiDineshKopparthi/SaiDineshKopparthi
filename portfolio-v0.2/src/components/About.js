@@ -14,8 +14,8 @@ const About = () => {
                     <img src={profilePic} alt="profile-pic" />
                 </div>
 
-                <div className="about-content">
-                    <h3>Full Stack Developer</h3>
+                <div className="about-content nes-container with-title">
+                    <p className="title">Full Stack Developer</p>
                     <p>
                         I am a recent Master's graduate in Applied Computer Science from Northwest Missouri State University,
                         driven by an unending enthusiasm for learning and a passion for advancing in the field of computer science.
@@ -26,9 +26,9 @@ const About = () => {
                     </p>
 
                     <p>
-                        My career is marked by a commitment to staying at the forefront of technology and achieving excellence in every 
-                        project I undertake. I am dedicated to exploring new technologies and leveraging my skills to drive impactful results. 
-                        My diverse experience, from developing dynamic web components to optimizing geospatial data systems, reflects my goal of 
+                        My career is marked by a commitment to staying at the forefront of technology and achieving excellence in every
+                        project I undertake. I am dedicated to exploring new technologies and leveraging my skills to drive impactful results.
+                        My diverse experience, from developing dynamic web components to optimizing geospatial data systems, reflects my goal of
                         pushing the boundaries of what's possible in computer science.
                     </p>
 

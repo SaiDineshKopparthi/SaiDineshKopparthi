@@ -11,7 +11,7 @@
     z-index: 100;
     background-color: transparent;
     color: white;
-    display: none;
+    /* display: none; */
 }
 
 .logo {
@@ -55,12 +55,47 @@
     font-size: 0.8rem;
     font-weight: 300;
     margin: 0 1rem;
+    position: relative;
     transition: 0.3s ease;
     text-decoration: none;
     color: white;
+    outline: none; 
 }
 
 .navbar-left a:hover,
 .navbar-right a:hover {
     color: white;
+    text-decoration: none;
+    outline: none;
+}
+
+.navbar-left a:visited,
+.navbar-right a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-left a:focus,
+.navbar-right a:focus {
+    color: white;
+    text-decoration: none;
+    outline: none;
+}
+
+.navbar-left a::after,
+.navbar-right a::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    color: white;
+    background-color: orangered;
+    transition: width 0.4s ease;
+}
+
+.navbar-left a:hover::after,
+.navbar-right a:hover::after {
+    width: 100%;
 }

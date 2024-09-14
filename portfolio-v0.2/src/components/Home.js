@@ -4,7 +4,7 @@ import '../styles/Home.css';
 
 const Home = () => {
     return (
-        <section className="home">
+        <section id="home" className="home">
             <div className="background-image"></div>
 
             <div className="overlay"></div>
