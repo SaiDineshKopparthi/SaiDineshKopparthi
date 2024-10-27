@@ -18,3 +18,12 @@
     position: relative;
     display: inline-block;
 }
+
+.filters {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    margin-top: 40px;
+}

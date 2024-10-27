@@ -1,3 +1,6 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
 .about {
     padding: 2rem;
     background-color: #D6DBDF;
@@ -8,47 +11,24 @@
     text-align: center;
     margin-top: 1.5rem;
     margin-bottom: 2rem;
-    position: relative;
 }
 
 .about-heading h2 {
     font-size: 2rem;
     color: #333;
     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
-    position: relative;
-    display: inline-block;
 }
-
-/* .about-heading h2::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    bottom: -5px;
-    width: 0;
-    height: 3px;
-    background-color: #333;
-    transition: width 0.5s ease-in-out;
-    animation: underline-animation 1s forwards ease-in-out;
-}
-
-@keyframes underline-animation {
-    0% {
-        width: 0%;
-    }
-    100% {
-        width: 100%;
-    }
-} */
 
 .about-content-wrapper {
     display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+    align-items: center; /* Vertically centers the image and carousel */
+    justify-content: center; /* Centers the overall content horizontally */
     gap: 2rem;
+    height: 60vh; /* Give the section a fixed height to ensure vertical centering */
 }
 
 .about-image {
-    flex: 1 0;
+    flex: 0 0 30%; /* Set the image container width to 30% */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -56,40 +36,62 @@
 }
 
 .about-image img {
-    width: 400px;
-    margin-bottom: -22px;
+    width: 100%; /* Ensure the image fills the container */
+    max-width: 300px; /* Limit the image width */
+}
+
+.about-slider {
+    flex: 0 0 65%; /* Set the slider container width to 65% */
+    display: flex;
+    align-items: center; /* Vertically center the slider content */
+    justify-content: center; /* Horizontally center the slider content */
+    position: relative;
+    height: 100%; /* Ensure it matches the height of the container */
+}
+
+.slick-slide {
+    display: flex !important; /* Make each slide a flex container */
+    align-items: center; /* Vertically center the slide content */
+    justify-content: center; /* Horizontally center the slide content */
+    height: 100%; /* Ensure the slide height fills the slider */
 }
 
 .about-content {
     background-color: #D4E6F1;
-    flex: 2;
-    color: #333;
-    margin-top: 2.5rem;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertically center the content inside the slide */
+    height: 100%; /* Full height to center vertically */
+    width: 100%; /* Ensure the content fills the entire slider */
 }
 
 .about-content .title {
     font-size: 1.25rem !important;
     font-weight: bold !important;
-    background-color: #D4E6F1 !important;
-    position: relative;
-}
-
-.about-content .title::after {
-    content: '';
-    position: absolute;
-    bottom: -10px;
-    left: 0;
-    width: 0;
-    height: 3px;
-    color: white;
-    background-color: black;
-    transition: width 0.4s ease;
-}
-
-.about-content .title:hover::after {
-    width: 100%;
 }
 
 .about-content p {
     font-size: 0.8rem;
+    line-height: 1.5;
+}
+
+.custom-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.next-arrow {
+    right: -25px;
+}
+
+.prev-arrow {
+    left: -25px;
 }
