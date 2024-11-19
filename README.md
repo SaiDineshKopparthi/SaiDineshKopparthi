@@ -60,27 +60,4 @@ My career is marked by a commitment to staying at the forefront of technology an
       <img src="https://streak-stats.demolab.com?user=SaiDineshKopparthi&theme=tokyonight" alt="Top Languages">
 </div>
 
-
-<h2 align="center">📫 Let's Connect!</h2>
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="mailto:kopparthi.dinesh42224@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Sai+Dinesh+Kopparthi&size=square" alt="My Email" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/dinesh-kopparthi-10862521b/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdinesh-kopparthi-10862521b%2F&subtitle=Dinesh+Kopparthi&size=square" alt="Dinesh Kopparthi">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SaiDineshKopparthi" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSaiDineshKopparthi&size=square" alt="Dinesh Kopparthi">
-      </a>
-    </td>
-  </tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&text=&section=footer&fontColor=87868f" width="100%">
