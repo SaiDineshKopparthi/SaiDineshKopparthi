@@ -8,7 +8,7 @@
 <p align="center"> 
   I am a passionate and forward-thinking technologist with a relentless drive to build impactful solutions that blend creativity, logic, and scalability. My journey in computer science is fueled by a deep curiosity and a commitment to lifelong learning, constantly exploring new technologies and frameworks to stay ahead in an ever-evolving landscape. 
 </p> 
-<p align="center"> From ideating clean, intuitive user experiences to architecting efficient backend systems, I find fulfillment in solving complex problems that deliver real-world value. I thrive in fast-paced, collaborative environments where innovation meets purpose—and where every line of code has the potential to make a difference. With a strong belief in the transformative power of software, I’m dedicated to pushing boundaries, mastering emerging tools, and turning ideas into high-performance digital experiences. 
+<p align="center"> From ideating clean, intuitive user experiences to architecting efficient backend systems, I find fulfillment in solving complex problems that deliver real-world value. I thrive in fast-paced, collaborative environments where innovation meets purpose and where every line of code has the potential to make a difference. With a strong belief in the transformative power of software, I’m dedicated to pushing boundaries, mastering emerging tools, and turning ideas into high-performance digital experiences. 
 </p>
 </br>
 </br>
