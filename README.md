@@ -5,11 +5,10 @@
 </div>
 
 <h2 align="center">🤖 About Me</h2>
-<p align="center">
-I am a recent Master's graduate in Applied Computer Science from Northwest Missouri State University, driven by an unending enthusiasm for learning and a passion for advancing in the field of computer science. With hands-on experience in developing iOS applications and a solid background in web development using technologies like React, Node.js, and Express, I thrive on the challenge of creating innovative solutions. My roles have ranged from enhancing user interfaces and integrating third-party applications to supporting educational initiatives and contributing to Agile transformations.
-</p>
-<p align="center">          
-My career is marked by a commitment to staying at the forefront of technology and achieving excellence in every project I undertake. I am dedicated to exploring new technologies and leveraging my skills to drive impactful results. My diverse experience, from developing dynamic web components to optimizing geospatial data systems, reflects my goal of pushing the boundaries of what's possible in computer science.
+<p align="center"> 
+  I am a passionate and forward-thinking technologist with a relentless drive to build impactful solutions that blend creativity, logic, and scalability. My journey in computer science is fueled by a deep curiosity and a commitment to lifelong learning, constantly exploring new technologies and frameworks to stay ahead in an ever-evolving landscape. 
+</p> 
+<p align="center"> From ideating clean, intuitive user experiences to architecting efficient backend systems, I find fulfillment in solving complex problems that deliver real-world value. I thrive in fast-paced, collaborative environments where innovation meets purpose—and where every line of code has the potential to make a difference. With a strong belief in the transformative power of software, I’m dedicated to pushing boundaries, mastering emerging tools, and turning ideas into high-performance digital experiences. 
 </p>
 </br>
 </br>
